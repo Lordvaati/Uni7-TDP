@@ -1,0 +1,21 @@
+#corpo {
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    width: 420px;
+    margin-top: 40px;
+    padding: 14px;
+}
+
+.like {
+    margin: 0 auto;
+    margin-left: 800px;
+    width: 80px;
+    padding: 5px;
+}
+
+.comentario {
+    margin: 0 auto;
+    margin-left: 400px;
+    width: 100px;
+    padding: 5px;
+}
